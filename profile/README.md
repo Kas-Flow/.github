@@ -26,3 +26,10 @@ npm install @kasflow/wallet-connector
 - [Documentation](https://kas-flow.xyz/docs)
 - [npm Organization](https://www.npmjs.com/org/kasflow)
 - [website](https://kas-flow.xyz)
+
+
+## AI Attribution
+
+Claude (Anthropic) assisted with code generation, debugging WASM bundling issues, and documentation.
+
+**Methodology**: Iterative development with AI pair programming - human-driven design decisions, AI-assisted implementation and debugging.
