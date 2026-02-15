@@ -23,5 +23,6 @@ npm install @kasflow/wallet-connector
 
 ## Links
 
-- [Documentation](https://github.com/Kas-Flow/kasflow#readme)
+- [Documentation](https://kas-flow.xyz/docs)
 - [npm Organization](https://www.npmjs.com/org/kasflow)
+- [website](https://kas-flow.xyz)
